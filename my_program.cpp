@@ -2,6 +2,6 @@
 
 int main(int argc, char const *argv[])
 {
-	//Here is some new stuff	
+	//Here is some new stuff
 	return 0;
 }
